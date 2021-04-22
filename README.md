@@ -6,7 +6,7 @@ edited version of esx_crafting so you can craft guns with minigame, you can use 
 
 # how to use ?
 
-put folder esx_guncrafting into your resources folder, add start esx_guncrafting to your server.cfg. You must also edit the config file if you want to add more guns, you also need to add the items to your database.
+put folder esx_guncrafting into your resources folder, add start esx_guncrafting to your server.cfg. You must also edit the config file if you want to add more guns, you also need to add the items for crafting to database.
 
 # preview ?
 
